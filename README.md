@@ -26,4 +26,4 @@ Concepts shown:
 - Nesting for loops to print a rectangle of a given width/height
 
 Overall, these notebooks aim to provide simple examples of common Python programming concepts. The countdown timer shows a full program example, while the for loops notebook focuses specifically on loop concepts.
-# Countdown
+
